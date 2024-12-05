@@ -1,0 +1,8 @@
+{
+  "name": "action-sequence-predictor",
+  "private": true,
+  "scripts": {
+    "start": "python main.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
